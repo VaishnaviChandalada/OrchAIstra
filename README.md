@@ -134,22 +134,23 @@ Provides key findings, governance recommendations, and downloadable executive re
 
 ## Sample Executive Governance Report
 
-Automatically generated executive report with governance metrics, AI-generated recommendations, and a 90-day roadmap.
+The platform automatically generates an executive governance report combining dashboard metrics with AI-generated recommendations and a structured 90-day governance roadmap.
 
 <img width="593" height="338" alt="image" src="https://github.com/user-attachments/assets/719efa5f-de4f-4834-ab50-59a67bbf1f48" />
 
-📄 Download: OrchAIstra_Executive_AI_Governance_Report.pdf
+📄 **Download Full Report:**  [OrchAIstra Executive AI Governance Report](OrchAIstra_Executive_AI_Governance_Report.pdf)
 
 ## Project Documentation
 
-Comprehensive project documentation covering the platform architecture, business objectives, features, dashboards, and implementation details.
+Comprehensive documentation covering the business problem, platform architecture, dashboards, analytics, and implementation.
 
-📄 View Project Documentation: OrchAIstra_Project_Documentation.pdf
+📄 **View Full Project Documentation:**  [OrchAIstra Project Documentation](OrchAIstra_Project_Documentation.pdf)
+
+---
 
 ## Demo
 
-Demo Video:
-(Add YouTube or GitHub video link)
+🎥 **Watch the OrchAIstra Demo:** https://youtu.be/THMzGusq5FI
 
 ---
 
